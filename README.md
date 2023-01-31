@@ -7,4 +7,3 @@ saf
 sfas
 fas
 
-[lorem ipsun](www.google.com.tr)
